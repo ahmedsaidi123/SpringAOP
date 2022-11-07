@@ -1,0 +1,11 @@
+<settings>
+...
+  <servers>
+    <server>
+      <id>nexus</id>
+      <username>admin</username>
+      <password>Ahmedsaidi1998</password>
+    </server>
+  </servers>
+...
+</settings>
